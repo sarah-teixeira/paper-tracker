@@ -124,3 +124,4 @@ Remova do array `sources` no `config.json`:
 | Semantic Scholar  | ~100 req/5min        | Nenhuma             |
 | Crossref          | ~50 req/s (com email)| Nenhuma             |
 | Elsevier/Scopus   | ~2 req/s, 5000/semana| API key (gratuita)  |
+# paper-tracker
