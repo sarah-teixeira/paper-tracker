@@ -1,4 +1,4 @@
-# 📚 Academic Paper Tracker
+# Academic Paper Tracker
 
 Sistema automatizado para monitorar artigos científicos novos em Computação/IA usando 4 APIs.
 
@@ -63,8 +63,6 @@ O Elsevier/Scopus requer uma API key gratuita:
    - Nome: `ELSEVIER_API_KEY`
    - Valor: sua chave da API
 
-> ⚠️ **NUNCA** coloque a API key direto no código ou no config.json!
-
 ### 3. Rodar localmente (testar)
 
 ```bash
@@ -116,7 +114,7 @@ Remova do array `sources` no `config.json`:
 "sources": ["openalex", "crossref"]
 ```
 
-## Limitações e Rate Limits
+## Limitações e rate limits
 
 | Fonte             | Limite               | Autenticação        |
 |-------------------|----------------------|---------------------|
@@ -124,6 +122,3 @@ Remova do array `sources` no `config.json`:
 | Semantic Scholar  | ~100 req/5min        | Nenhuma             |
 | Crossref          | ~50 req/s (com email)| Nenhuma             |
 | Elsevier/Scopus   | ~2 req/s, 5000/semana| API key (gratuita)  |
-# paper-tracker
-# paper-tracker
-# paper-tracker
