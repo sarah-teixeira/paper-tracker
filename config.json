@@ -1,0 +1,25 @@
+{
+    "keywords": [
+        "large language model",
+        "reinforcement learning from human feedback",
+        "transformer architecture",
+        "neural architecture search",
+        "diffusion model",
+        "retrieval augmented generation",
+        "image matting", 
+        "video matting", 
+        "semantic segmentation", 
+        "object detection", 
+        "image inpainting", 
+        "neural radiance field", 
+        "3D reconstruction", 
+        "visual grounding", 
+        "depth estimation", 
+        "image super resolution"
+    ],
+    "days_lookback": 7,
+    "db_path": "papers.db",
+    "sources": ["openalex", "semantic_scholar", "crossref", "elsevier"],
+    "max_results_per_source": 50,
+    "email": "txhsarah@gmail.com"
+}
