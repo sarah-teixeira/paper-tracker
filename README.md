@@ -126,3 +126,4 @@ Remova do array `sources` no `config.json`:
 | Elsevier/Scopus   | ~2 req/s, 5000/semana| API key (gratuita)  |
 # paper-tracker
 # paper-tracker
+# paper-tracker
